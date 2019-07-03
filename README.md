@@ -31,9 +31,11 @@ color is 234 234 123 ;    --设置点的颜色
 
 ## data1.in的呈现效果
 <img src="./pic/1.png" width=1000 />
-## data2.in 的呈现效果
+
+## data2.in的呈现效果
 <img src="./pic/2.png" width=1000 />
-## data3.in 的呈现效果
+
+## data3.in的呈现效果
 <img src="./pic/3.png" width=1000 />
 
 ## lex 和 yacc 运行命令
